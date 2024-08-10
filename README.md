@@ -13,7 +13,7 @@ To get started with the project, follow the steps below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shaadclt/Car-Price-Prediction-LinearRegression.git
+git clone https://github.com/06Gagan/Car-Price-prediction.git
 ```
 
 2. Change into the project directory:
