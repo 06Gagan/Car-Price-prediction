@@ -30,7 +30,7 @@ cd Car-Price-prediction
 jupyter notebook
 ```
 
-5. Open the `Car Price Prediction.ipynb` notebook in Jupyter.
+5. Open the `Car Price prediction.ipynb` notebook in Jupyter.
 
 6. Follow the instructions in the notebook to load the dataset, preprocess the data, train the linear regression model, and make price predictions.
 
