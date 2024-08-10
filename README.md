@@ -19,7 +19,7 @@ git clone https://github.com/06Gagan/Car-Price-prediction.git
 2. Change into the project directory:
 
 ```bash
-cd Car-Price-Prediction-LinearRegression
+cd Car-Price-prediction
 ```
 
 3. Install the required dependencies:
