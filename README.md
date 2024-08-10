@@ -55,15 +55,3 @@ The project aims to predict used car prices using linear regression. The results
 - Applying the trained model to predict prices for new, unseen used car instances.
 
 The insights gained from this project can help in estimating the value of pre-owned cars and assist in making informed decisions in the used car market.
-
-## Customization
-
-You can customize the project by modifying the dataset, experimenting with different preprocessing techniques, trying other regression algorithms, or exploring additional features for used car price prediction. This project serves as a starting point for used car price prediction using linear regression, and you can extend it further to suit your needs.
-
-## Acknowledgments
-
-- This project is created for the purpose of exploring used car price prediction using linear regression in Jupyter Notebook.
-
-## Contributing
-
-Contributions are welcome! If you find any issues, have suggestions for improvements, or want to add more features, please open an issue or submit a pull request.
